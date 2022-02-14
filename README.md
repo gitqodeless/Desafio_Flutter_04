@@ -1,6 +1,6 @@
 ![logo](https://github.com/gitqodeless/gitqodeless/blob/main/logo1.png?raw=true)
 
-# Desafio_07 -  Gerenciamento de Estado:
+# Desafio_04 -  Gerenciamento de Estado:
 
 R01. Conter uma Splash Page com duração de 3 segundos, que navega para uma tela de Homepage;
 
